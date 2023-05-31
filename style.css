@@ -1,0 +1,35 @@
+
+body{
+    font-family: monospace;
+    background-size: cover !important;
+}
+
+h1{
+    background-color: lightblue;
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h3{
+    border-radius: 10px;
+    background-color: lightcoral;
+    font-size: 24px;
+    padding: 5px;
+    width: 400px;
+    margin-top: 20px;
+}
+
+h1:hover{
+    background-color: rgb(100, 196, 228);
+}
+
+h3:hover{
+    background-color: rgb(235, 76, 76);
+}
+
+canvas{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+}
